@@ -24,10 +24,10 @@ Think of your personal bank account experience When in doubt, go for the simples
 
 
 # Api Dependance with swagger ui
-[BankAccountApiNestJS](https://github.com/emilindadie/BankAccountApiNestJS)
+[bankAPINestJS](https://github.com/fabricedano/bankAPINestJS)
 
 # Other Api Dependance
-[BankAccountkataApi](https://github.com/emilindadie/BankAccountKataApi)
+[kataBankAPI](https://github.com/fabricedano/kataBankAPI)
 
 
 # Link to see the interface
