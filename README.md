@@ -30,12 +30,6 @@ Think of your personal bank account experience When in doubt, go for the simples
 [kataBankAPI](https://github.com/fabricedano/kataBankAPI)
 
 
-# Link to see the interface
-https://www.slideshare.net/secret/5VRmSQqnsNefsH
-
-https://docs.google.com/presentation/d/1ykeXnn0tQDUygtBIWzQwovgqDhRP6ba_yfiJZgr2nso/edit?usp=sharing
-
-
 # Configure proxy in local developement (package?json file replace:) 
 
 ```sh
